@@ -1,6 +1,6 @@
 # Revenue Insights - Hospitality Domain
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
+Link to [Interactive Dashboard](https://www.novypro.com/project/revenue-insights-hospitality-domain-8)
 
 ## Problem statement
 
