@@ -29,7 +29,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Overall Analysis View
+## Revenue Dashboard - Overall Analysis View
 
 <p align="center">
     <img src='https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/resources/Revenue%20Dashboard.png' width="600">
