@@ -15,3 +15,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create the metrics according to the metric list. 
 - Create a dashboard according to the mock-up provided by stakeholders. 
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+## Provided Mock-up Dashboard
+<p align="center">
+    <img src="https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/Dataset/mock_up_dashboard_atliq_grands.png" width="600">
+</p>
+
+
+## Data Model
+
+<p align="center">
+    <img src='https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/resources/Data%20Modelling%20in%20Power%20Pivot.png' height="400">
+</p>
+
+
+## Overall Analysis View
+
+<p align="center">
+    <img src='
+https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/resources/Revenue%20Dashboard.png
+' width="600">
+</p>
