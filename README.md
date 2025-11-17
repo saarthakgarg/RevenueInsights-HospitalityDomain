@@ -34,3 +34,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 <p align="center">
     <img src='https://github.com/saarthakgarg/RevenueInsights-HospitalityDomain/blob/main/resources/Revenue%20Dashboard.png' width="600">
 </p>
+
+
+## Business Outcomes 
+
+Please refer to the presentation for detailed insights.
